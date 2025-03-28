@@ -25,6 +25,7 @@ class AppRouter {
           builder: (_) => LoginScreen(),
         );
   }
+    return null;
   
 }
 }
