@@ -1,0 +1,20 @@
+flutter_native_splash:
+ 
+  color: "#FFFFFF"
+  #background_image: "assets/background.png"
+
+
+  image: assets/images/splash by me.png
+
+ 
+  #background_image_dark: "assets/dark-background.png"
+  #image_dark: assets/splash-invert.png
+  #branding_dark: assets/dart_dark.png
+
+  # From Android 12 onwards, the splash screen is handled differently than in previous versions.
+  # Please visit https://developer.android.com/guide/topics/ui/splash-screen
+  # Following are specific parameters for Android 12+.
+  android_12:
+    image: assets/images/splash by me.png
+    color: "#FFFFFF"
+   
